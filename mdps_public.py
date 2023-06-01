@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
 
-
-@author: siddhardhan
-"""
 
 import pickle
 import streamlit as st
