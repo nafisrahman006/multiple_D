@@ -26,7 +26,7 @@ with st.sidebar:
                            'Heart Disease Prediction',
                            'Parkinsons Prediction',
                            'Breast Cancer Detection'],
-                          icons=['activity','heart','person','capsule'],
+                          icons=['activity','heart','person','icofont-medical-sign'],
                           default_index=0)
     
     
